@@ -1,0 +1,30 @@
+
+header{
+
+.kott{
+width: 3472.82px height: 3462.07px
+
+.zap {
+  position: absolute;
+height: 100px;
+left: calc(50% - 532px/2 + 800px);
+ top: calc(50% - 100px/2 300px);
+font-family: cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 119px;
+color: #000000;                                                                                                                                                                                               mix-blend-mode: normal;
+ }
+
+.instagram {
+     position: absolute;
+height: 100px;
+left: calc(50% 532px/2 + 500px);                                                                                                                                                                   top: calc(50% - 100px/2 - 300px);
+font-family: cursive;
+font-style: normal;
+font-weight: 400;                                                                                                                                                                                              font-size: 35px;
+line-height: 119px;
+ color: #000000;
+ mix-blend-mode: normal;
+}
