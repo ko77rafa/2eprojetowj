@@ -1,30 +1,53 @@
-
 header{
 
+
+}
+
 .kott{
-width: 3472.82px height: 3462.07px
+position: absolute;
+width: 500px;
+height: 500px
+}
 
 .zap {
   position: absolute;
 height: 100px;
 left: calc(50% - 532px/2 + 800px);
- top: calc(50% - 100px/2 300px);
+top: calc(50% - 100px/2 - 300px);
 font-family: cursive;
 font-style: normal;
 font-weight: 400;
 font-size: 35px;
 line-height: 119px;
-color: #000000;                                                                                                                                                                                               mix-blend-mode: normal;
- }
+color: #000000;
+mix-blend-mode: normal;
+}
 
 .instagram {
-     position: absolute;
+  position: absolute;
 height: 100px;
-left: calc(50% 532px/2 + 500px);                                                                                                                                                                   top: calc(50% - 100px/2 - 300px);
+left: calc(50% - 532px/2 + 500px);
+top: calc(50% - 100px/2 - 300px);
 font-family: cursive;
 font-style: normal;
-font-weight: 400;                                                                                                                                                                                              font-size: 35px;
+font-weight: 400;
+font-size: 35px;
 line-height: 119px;
- color: #000000;
- mix-blend-mode: normal;
+color: #000000;
+mix-blend-mode: normal;
+}
+
+.titulo {
+  position: absolute;
+width: 10000px;
+height: 450px;
+font-family: 'Jolly Lodger';
+font-style: normal;
+font-weight: 50;
+font-size: 100px;
+line-height: 100px;
+color: #000000;
+border: 1px solid #000000;
+left:500px;
+top: 1px
 }
