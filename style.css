@@ -1,6 +1,5 @@
-header{
-
-
+body{
+  background-color: #9528b1;
 }
 
 .kott{
@@ -12,12 +11,12 @@ height: 500px
 .zap {
   position: absolute;
 height: 100px;
-left: calc(50% - 532px/2 + 800px);
-top: calc(50% - 100px/2 - 300px);
+left: calc(50% - 1032px/2 + 800px);
+top: calc(50% - 00px/2 - 300px);
 font-family: cursive;
 font-style: normal;
 font-weight: 400;
-font-size: 35px;
+font-size: 80px;
 line-height: 119px;
 color: #000000;
 mix-blend-mode: normal;
@@ -26,12 +25,12 @@ mix-blend-mode: normal;
 .instagram {
   position: absolute;
 height: 100px;
-left: calc(50% - 532px/2 + 500px);
-top: calc(50% - 100px/2 - 300px);
+left: calc(50% - 1532px/2 + 500px);
+top: calc(50% - 00px/2 - 300px);
 font-family: cursive;
 font-style: normal;
 font-weight: 400;
-font-size: 35px;
+font-size: 80px;
 line-height: 119px;
 color: #000000;
 mix-blend-mode: normal;
@@ -47,7 +46,20 @@ font-weight: 50;
 font-size: 100px;
 line-height: 100px;
 color: #000000;
-border: 1px solid #000000;
-left:500px;
+left:550px;
 top: 1px
+}
+
+.biografia{
+  position: absolute;
+  width: 1000px;
+  margin-left: 60px;
+  margin-top: 500px;
+  height: 1351px;
+  font-family: 'Jacques Francois';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 80px;
+  color: #000000;
 }
